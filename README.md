@@ -2,8 +2,8 @@
 # About Me
 
 <!-- Avatar -->
+![Rutuja's Profile Picture](Ru.jpg){width=50}
 
-<img src="https://github.com/Rutujas1709/Rutujas1709/raw/main/Rutujas1709/Rutujas1709/Ru.jpg" alt="Rutuja's Profile Picture" width="50"/>
 
 
 ### Hi there 👋
