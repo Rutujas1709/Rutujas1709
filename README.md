@@ -3,7 +3,7 @@
 
 <!-- Avatar -->
 ![Rutuja's Profile Picture](Ru.jpg)
-<img src="https://github.com/Rutujas1709/Rutujas1709/raw/main/Rutujas1709/Rutujas1709/Ru.jpg" alt="Rutuja's Profile Picture" width="200"/>
+<img src="https://github.com/Rutujas1709/Rutujas1709/raw/main/Rutujas1709/Rutujas1709/Ru.jpg" alt="Rutuja's Profile Picture" width="100"/>
 
 
 ### Hi there 👋
