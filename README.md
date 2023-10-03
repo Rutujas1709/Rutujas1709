@@ -2,7 +2,7 @@
 # About Me
 
 <!-- Avatar -->
-![Rutuja's Profile Picture](Ru.jpg){width=50}
+![Rutuja's Profile Picture](Ru.jpg){width=10}
 
 
 
