@@ -2,7 +2,7 @@
 # About Me
 
 <!-- Avatar -->
-![Rutuja's Profile Picture](/Users/rutujasonawane/Documents/workspace_practice/githubreadme/Ru.jpg)
+![Rutuja's Profile Picture](https://github.com/Rutujas1709/Rutujas1709/raw/main/Rutujas1709/Rutujas1709/Ru.jpg)
 ### Hi there 👋
 
 I'm Rutuja Sonawane, 
