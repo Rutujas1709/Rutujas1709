@@ -2,7 +2,7 @@
 # About Me
 
 <!-- Avatar -->
-![Rutuja's Profile Picture](Ru.jpg){width=10}
+<img src="Ru.jpg" alt="Rutuja's Profile Picture" width="20" height="20">
 
 
 
