@@ -5,12 +5,6 @@
 ![Rutuja's Profile Picture](zen.gif)
 
 
-
-
-![Rutuja's Animated Profile Picture](zen.gif)
-
-
-
 ### Hi there 👋
 
 I'm Rutuja Sonawane, 
