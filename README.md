@@ -2,7 +2,11 @@
 # About Me
 
 <!-- Avatar -->
-<img src="Ru.jpg" alt="Rutuja's Profile Picture" width="200" height="300">
+
+
+
+
+![Rutuja's Animated Profile Picture](https://github.com/Rutujas1709/Rutujas1709/raw/main/Rutujas1709/Rutujas1709/zen.gif)
 
 
 
