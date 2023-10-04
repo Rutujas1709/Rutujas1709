@@ -2,6 +2,7 @@
 # About Me
 
 <!-- Avatar -->
+![Rutuja's Profile Picture](zen.gif)
 
 
 
