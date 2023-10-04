@@ -2,7 +2,9 @@
 # About Me
 
 <!-- Avatar -->
-![Rutuja's Profile Picture](zen.gif)
+
+<img src="zen.gif" alt="Rutuja's Profile Picture" width="150" height="150">
+
 
 
 ### Hi there 👋
