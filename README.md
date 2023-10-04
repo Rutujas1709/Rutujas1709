@@ -6,7 +6,7 @@
 
 
 
-![Rutuja's Animated Profile Picture](https://github.com/Rutujas1709/Rutujas1709/raw/main/Rutujas1709/Rutujas1709/zen.gif)
+![Rutuja's Animated Profile Picture](zen.gif)
 
 
 
