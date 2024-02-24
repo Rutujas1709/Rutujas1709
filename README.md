@@ -15,6 +15,7 @@ I am a highly motivated Computer Science graduate student at San Diego State Uni
 
 In addition to my academic pursuits, I have gained valuable experience through internships and professional roles, where I refined my skills in Data Analysis, Data Science and Data Engineering using tools and technologies, contributing to process optimization and providing data-driven insights. My commitment extends to ensure data accuracy and implementing quality checks during the analysis process.
 Throughout my academic and professional journey, I've come to appreciate technology's transformative potential. I'm enthusiastic who remains loyal to the organizations I'm a part of. My inquisitiveness drives me to utilize my skills to make a meaningful impact and contribute to the growth of every company I engage with, and I embrace challenges that not only enhance my skills but also foster personal development.
+
 Apart from my academic pursuits, I enjoy playing badminton, listening to music, and watching movies. Badminton keeps me physically and mentally engaged, while music and movies provide relaxation and inspiration, adding balance to my life.
 
 As I continue my technology journey, I'm excited to embrace new challenges, explore emerging trends, and maintain my commitment to lifelong learning. My portfolio reflects my dedication, skills, and accomplishments, and I eagerly anticipate sharing it with you.
