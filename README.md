@@ -24,6 +24,8 @@ As I continue my technology journey, I'm excited to embrace new challenges, expl
 - **Databases:** RDBMS, SQL, MySQL, PostgreSQL, NoSQL, MongoDB, AWS DynamoDB
 - **Data Analysis and Machine Learning:** NumPy, Matplotlib, TensorFlow, Pandas, PyTorch, PySpark, Scikit-learn, SciPy
 - **Tools and Technologies:** PowerBI, Tableau, Excel, AWS, GCP, Snowflake, Azure Databricks, GitHub, CI/CD, Airflow, Linux
+  
+<font color="blue">Note: This text is bold and in green color.</font>
 
 ## Get in Touch
 
