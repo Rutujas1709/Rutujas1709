@@ -19,7 +19,7 @@ Apart from my academic pursuits, I enjoy playing badminton, listening to music, 
 
 As I continue my technology journey, I'm excited to embrace new challenges, explore emerging trends, and maintain my commitment to lifelong learning. My portfolio reflects my dedication, skills, and accomplishments, and I eagerly anticipate sharing it with you.
 
-**TECHNICAL SKILLS**
+
 **TECHNICAL SKILLS**
 
 - **Programming Languages:** `Python`, `R`, `C++`, `Java`, `HTML/CSS`, `JavaScript`
