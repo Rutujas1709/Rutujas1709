@@ -20,12 +20,11 @@ As I continue my technology journey, I'm excited to embrace new challenges, expl
 
 **TECHNICAL SKILLS**
 
-- **Programming Languages:** Python, R, C++, Java, HTML/CSS, JavaScript
-- **Databases:** RDBMS, SQL, MySQL, PostgreSQL, NoSQL, MongoDB, AWS DynamoDB
-- **Data Analysis and Machine Learning:** NumPy, Matplotlib, TensorFlow, Pandas, PyTorch, PySpark, Scikit-learn, SciPy
-- **Tools and Technologies:** PowerBI, Tableau, Excel, AWS, GCP, Snowflake, Azure Databricks, GitHub, CI/CD, Airflow, Linux
-  
-<font color="blue">Note: This text is bold and in green color.</font>
+- <span style="color: blue;">**Programming Languages:**</span> Python, R, C++, Java, HTML/CSS, JavaScript
+- <span style="color: blue;">**Databases:**</span> RDBMS, SQL, MySQL, PostgreSQL, NoSQL, MongoDB, AWS DynamoDB
+- <span style="color: blue;">**Data Analysis and Machine Learning:**</span> NumPy, Matplotlib, TensorFlow, Pandas, PyTorch, PySpark, Scikit-learn, SciPy
+- <span style="color: blue;">**Tools and Technologies:**</span> PowerBI, Tableau, Excel, AWS, GCP, Snowflake, Azure Databricks, GitHub, CI/CD, Airflow, Linux
+
 
 ## Get in Touch
 
