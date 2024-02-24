@@ -19,12 +19,12 @@ Apart from my academic pursuits, I enjoy playing badminton, listening to music, 
 As I continue my technology journey, I'm excited to embrace new challenges, explore emerging trends, and maintain my commitment to lifelong learning. My portfolio reflects my dedication, skills, and accomplishments, and I eagerly anticipate sharing it with you.
 
 **TECHNICAL SKILLS**
+**TECHNICAL SKILLS**
 
-- <span style="color: green;">**Programming Languages:**</span> Python, R, C++, Java, HTML/CSS, JavaScript
-- <span style="color: blue;">**Databases:**</span> RDBMS, SQL, MySQL, PostgreSQL, NoSQL, MongoDB, AWS DynamoDB
-- <span style="color: blue;">**Data Analysis and Machine Learning:**</span> NumPy, Matplotlib, TensorFlow, Pandas, PyTorch, PySpark, Scikit-learn, SciPy
-- <span style="color: blue;">**Tools and Technologies:**</span> PowerBI, Tableau, Excel, AWS, GCP, Snowflake, Azure Databricks, GitHub, CI/CD, Airflow, Linux
-
+- **Programming Languages:** `Python`, `R`, `C++`, `Java`, `HTML/CSS`, `JavaScript`
+- **Databases:** `RDBMS`, `SQL`, `MySQL`, `PostgreSQL`, `NoSQL`, `MongoDB`, `AWS DynamoDB`
+- **Data Analysis and Machine Learning:** `NumPy`, `Matplotlib`, `TensorFlow`, `Pandas`, `PyTorch`, `PySpark`, `Scikit-learn`, `SciPy`
+- **Tools and Technologies:** `PowerBI`, `Tableau`, `Excel`, `AWS`, `GCP`, `Snowflake`, `Azure Databricks`, `GitHub`, `CI/CD`, `Airflow`, `Linux`
 
 ## Get in Touch
 
